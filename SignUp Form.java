@@ -2,7 +2,8 @@
 import javax.swing.*;
 import java.awt.*;
 
-public class GridBagLayoutInstance {
+public class GridBagLayoutInstance 
+
     public GridBagLayoutInstance() {
         JFrame frame = new JFrame();
         GridBagLayout gBag = new GridBagLayout();

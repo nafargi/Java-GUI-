@@ -21,7 +21,5 @@ public class Main {
         frame.setSize(300,400);
         frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         frame.setVisible(true);
-
-        System.out.println("Hello world!");
     }
 }

@@ -9,7 +9,6 @@ public class Main {
         frame.setSize(new Dimension(450,220));
         frame.setTitle("JcheckDemo");
 
-
         JPanel checkPanel = new JPanel(new GridBagLayout());
         GridBagConstraints checkGird = new GridBagConstraints();
         checkGird.fill = GridBagConstraints.HORIZONTAL;

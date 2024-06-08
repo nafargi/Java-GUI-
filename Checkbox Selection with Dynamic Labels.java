@@ -43,7 +43,6 @@ public class Main {
         checkGird.gridx = 3;
         checkPanel.add(label4, checkGird);
 
-
         check1.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
                 if(check1.isSelected()){

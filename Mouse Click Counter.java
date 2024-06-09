@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
-wwwwwwwwwwwwww
+wwwwwwwwwwww
 public class MousecClickCount{
     public static void main(String[] args){
         JFrame frame = new JFrame("Mouse Click Counter");

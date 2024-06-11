@@ -5,7 +5,6 @@ public class Main {
     public static void main(String[] args) {
         JFrame frame = new JFrame("Border Layout");
         frame.setLayout(new BorderLayout());
-
         JButton northButton = new JButton("north");
         JButton westButton = new JButton("west");
         JButton eastButton = new JButton("east");

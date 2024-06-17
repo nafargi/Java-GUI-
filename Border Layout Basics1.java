@@ -1,6 +1,6 @@
 import javax.swing.*;
 import java.awt.*;
-11111
+1111
 public class Main {
     public static void main(String[] args) {
         JFrame frame = new JFrame("Border Layout");

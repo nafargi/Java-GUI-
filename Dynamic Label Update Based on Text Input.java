@@ -13,7 +13,7 @@ public class DocumentListenerInstance {
         JTextField textFromUser = new JTextField(20);
         JLabel label = new JLabel("Type something...");
 
-jkkkkkk
+jkkkkk
         textFromUser.getDocument().addDocumentListener(new DocumentListener() {
             public void insertUpdate(DocumentEvent e) {
                 label.setText(textFromUser.getText());

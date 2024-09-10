@@ -17,7 +17,6 @@ public class Main {
          JTextField num2 = new JTextField(15);
 
          JButton btn = new JButton("Calculate");
-
          btn.addActionListener(new ActionListener() {
              @Override
              public void actionPerformed(ActionEvent e) {
